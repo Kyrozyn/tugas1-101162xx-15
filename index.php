@@ -21,7 +21,7 @@
     <a class='btn btn-primary' href='https://tugas1-101162xx-44.herokuapp.com'>No. 44 / 101162xx <br>Andika Dirgantara</a>
     <a class='btn btn-primary' href='https://tugas1-101163xx-31.herokuapp.com/'>No. 31 / 101163xx <br> M. Adityo Fathur R</a>
     <a class='btn btn-primary' href='https://tugas1-101163xx-33.herokuapp.com/'>No. 33 / 101163xx <br> Rizqi Adiguna</a><br>
-    <a class='btn btn-secondary' href='index2.php' style='margin:20px'>Download Review Security</a>
+    <a class='btn btn-secondary' href='#' style='margin:20px'>Download Review Security</a>
 </div></form>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
